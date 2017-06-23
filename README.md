@@ -11,8 +11,8 @@ Simply this:
  - Way faster than its competitors ([World Edit](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2295141-world-edit-plugin-for-pocketmine-0-9-5-0-10-4-by) by MCPEGenius79), [WorldEditArt](https://github.com/PEMapModder/Small-ZC-Plugins/tree/master/WorldEditArt) by @PEMapModder (and its rewrite [WorldEditArt](https://github.com/LegendOfMCPE/WorldEditArt) by @LegendOfMCPE), [WorldEditor](https://github.com/shoghicp/WorldEditor) by @shoghicp
  - //pos1
  - //pos2
- - //wand (Fully working Wand selections using a wooden axe)
- - //copy
+   - //wand (Fully working Wand selections using a wooden axe)
+   - //copy
  - //paste
  - //undo
  - //redo
