@@ -19,7 +19,7 @@ Simply this:
  - //set 1 | //set 1:3,2,25:5,wooden_planks:2 (randomly chosen from given id's) | //set 5:3 (metadata support) | //set grass
  - //replace 1 1 | //replace 1:5,2,45 5:3,1  (replace 1:5, 2, 45 with randomly chosen 5:3 or 1) | //replace dirt grass
  - //schem [load|paste|export]
- - Commands can use block names instead of id's
+ -- Commands can use block names instead of id's
  - Copying + Pasting relative to the player
  - Estimated time + Changed blocks counter
 
